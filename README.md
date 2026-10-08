@@ -7,8 +7,8 @@
 5. اختار ملف **`ArabyMth.jar`** واضغط **OK**.
 
 دلوقتي ضيف السطر ده في بداية ملف الـ Java عندك:
+``java
 
-```java
 import static mycode.Arabu.*;
 
 
@@ -21,7 +21,7 @@ import static mycode.Arabu.*;
 4. اضغط على علامة الزائد (`+`) واختر ملف الـ `JAR`.
 5. في بداية ملف الـ Java الخاص بك، أضف السطر التالي للوصول لكافة الدوال والمفردات العربية:
 
-```java
+``java
 import static mycode.Arabu.*;
 
 
